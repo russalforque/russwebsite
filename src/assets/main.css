@@ -1,0 +1,6 @@
+@import './base.css';
+@import "tailwindcss";
+
+#app {
+  margin-left: 100px;
+}
